@@ -1,0 +1,26 @@
+{
+  "name": "wewjs",
+  "version": "1.0.0",
+  "description": "Working Effectively with Legacy JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poenneby/wewjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poenneby/wewjs/issues"
+  },
+  "homepage": "https://github.com/poenneby/wewjs#readme"
+}

@@ -45,3 +45,8 @@ function update_quality(items) {
     }
   });
 }
+
+module.exports = {
+  Item,
+  update_quality
+}
